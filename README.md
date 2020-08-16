@@ -1,4 +1,4 @@
-# LivrableRMI
+# ObjisLivrableRMI
 Le TP RMI nous permet de comprendre:
 - Comment mettre en place un serveur RMI
 - Comment mettre en place un client
